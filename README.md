@@ -11,4 +11,4 @@ Analyzed the data to draw insights and answered the 6 question with visualizatio
 ## PowerBI Visualization
 Next was to create a visual report using PowerBI
 ## Article
-Lastly was the article which detailed everything done in the project with a conclusion on how to venture into the indian ecosystem. 
+Lastly was the article which detailed everything done in the project with a conclusion on how to venture into the indian ecosystem. https://www.linkedin.com/pulse/indian-start-up-funding-analysis-lawrence-larweh
